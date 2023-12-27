@@ -6,3 +6,7 @@ Adding topics of Shell scripting
  Z Shell
  Fish Shell
  C Shell
+
+pull the code
+Commit the changes
+Push the changes
